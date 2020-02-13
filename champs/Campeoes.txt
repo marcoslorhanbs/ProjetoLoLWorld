@@ -4,21 +4,24 @@ MORDEKAISER
 IRELIA
 
 ADC
-JHIN
-Miss Fortune
 Ashe
+Jhin
+Miss Fortune
+
 
 MID
+Katarina
 VEIGAR
 ZED
-Katarina
 
 JUNGLE
-OLAF
 MASTER YI
+OLAF
 SEJUANI
 
 SUPORTE
-SORAKA
-LULU
 BRAUN
+LULU
+SORAKA
+
+
