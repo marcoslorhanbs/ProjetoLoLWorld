@@ -1,0 +1,65 @@
+/*css lanes*/
+*{
+	padding: 0;
+	margin: 0;
+	background: black;
+	scroll-behavior: smooth;
+	font-family: Marvel;
+}
+
+.lanes{
+	display: flex;
+    border-left: 95px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-right: 100px;
+    
+}
+
+
+img{
+	height: 100px;
+	margin: auto;
+	display: flex;
+}
+
+h1{
+	color: #fff;
+	text-align: center;
+}
+
+p{
+	color: #fff;
+	font-size: 40px;
+}
+
+div{
+	display: flex;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#voltar{
+	height: 100px;
+	float: left;
+}
+
+div.zoom a img{
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+div.zoom a img:hover{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+
+
+
+
+

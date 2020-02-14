@@ -1,0 +1,39 @@
+/*css INDEX*/
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-image: url(img/mapalol-Escuro.png);
+}
+
+nav{
+	background: black;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+}
+
+ul li{
+	display: inline-flex;
+	margin: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.logo img{
+	
+	margin-top: 150px;
+	max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 613px){
+	ul li{
+		display: block;
+	}
+}
