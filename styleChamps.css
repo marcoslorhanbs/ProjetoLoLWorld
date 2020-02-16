@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #000;
+	font-family: Marvel;
+}
+
+section img{
+	max-width: 100%;
+}
+
+section a{
+	float: left;
+	text-decoration: none;
+}
+
+h1, h2, h3{
+	text-align: center;
+	color: #fff;
+}
+
+
+
+div{
+	display: flex;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+div.zoom a img{
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+
+div.zoom a img:hover{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+div.bio{
+	text-align: center;
+	max-width: 50%;
+}
+
+p{
+	color: #fff;
+}
+
