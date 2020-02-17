@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: MARVEL;
+}
+
+body{
+	background: #000;
+}
+
+.fundo img{
+	max-width: 100%;
+}
+
+.icon{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	color: #DAA520;
+	font-size: 70px;
+}
+
+div.bio{
+	text-align: center;
+	color: #fff;
+	padding: 40px;
+}
+
+div.bio p{
+	font-size: 30px;
+}
+
+section img{
+	max-width: 100%;
+}
