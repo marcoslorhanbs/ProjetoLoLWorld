@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: MARVEL;
+	font-family: "Century Gothic";
 }
 
 body{
@@ -35,3 +35,4 @@ div.bio p{
 section img{
 	max-width: 100%;
 }
+
